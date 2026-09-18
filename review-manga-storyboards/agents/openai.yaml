@@ -1,0 +1,4 @@
+interface:
+  display_name: "漫畫分鏡審讀"
+  short_description: "依右翻讀序、構圖鏡頭與正文比對，審讀漫畫分鏡節奏與連戲"
+  default_prompt: "使用 $review-manga-storyboards 依右翻讀序分析逐格構圖、留白、氣泡視線、鏡頭與 panel beat，並對照正文；只有我要求時才做素描檢查。"
